@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "Lucy",
+		"description": "星满天坛河泻影 月离海峤树生烟 ",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Re Lucy",
+		"subtitle": "星满天坛河泻影 月离海峤树生烟",
+		"enter": "下滑",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "Re Lucy",
+		"signature": "C++ & Arkinghts & Genshin",
+		"avatar": {
+			"link": "assets/1.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://blog.luckylucy.live",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "https://cloud.luckylucy.live",
+				"icon": "xiaolian",
+				"text": "Cloud"
+			},
+			"third": {
+				"href": "mailto:1257716130@qq.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"fourth": {
+				"href": "https://github.com/ReLuckyLucy",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
